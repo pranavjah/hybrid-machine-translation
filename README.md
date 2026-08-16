@@ -26,7 +26,7 @@ Both engines' candidates are pooled and reranked using IBM Model
 
 Everything — NMT inference (via [transformers.js](https://github.com/xenova/transformers.js)),
 the SMT decoder, and the reranker — runs **entirely client-side in the
-browser**. No backend, no Flask API. Try it live: [demo link].
+browser**. No backend, no Flask API.
 
 ## Known limitation
 
