@@ -1,0 +1,9 @@
+numpy
+scipy
+nltk
+torch
+openNMT-py
+sentencepiece
+flask
+transformers
+sacremoses
